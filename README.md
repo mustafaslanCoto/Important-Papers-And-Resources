@@ -1,3 +1,3 @@
 # Important-Papers
-Linear Algebra Resources
-https://shainarace.github.io/LinearAlgebra/index.html
+Linear Algebra: https://shainarace.github.io/LinearAlgebra/index.html
+Deep Learning: https://d2l.ai/
